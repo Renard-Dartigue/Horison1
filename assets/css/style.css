@@ -84,8 +84,10 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color:#d9dcd6;
 }
 
+/* changed to article1 from benefit  */
 .article1 {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,8 +103,10 @@ aside {
     color: #ffffff;
 } */
 
+/*  */
 .benefit h3 {
-    margin-bottom: 10px;
+    margin-top: 16%;
+    margin-bottom: auto;
     text-align: center;
 }
 

@@ -38,4 +38,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ##Screenshot
-![Alt text](assets/images/_G__ProBootcamp_UCF_homework_Horison1_index.html.png)
+![Screenshot of Webpage](assets/images/_G__ProBootcamp_UCF_homework_Horison1_index.html.png)
